@@ -2,11 +2,11 @@
     "name": "憨憨",
     "timezoneOffset": "+0800",
     "description": "憨憨",
-    "url": "https://hhanclub.top/",
-    "icon": "https://hhanclub.top/favicon.ico",
+    "url": "https://hhanclub.net/",
+    "icon": "https://hhanclub.net/favicon.ico",
     "tags": [],
     "schema": "NexusPHP",
-    "host": "hhanclub.top",
+    "host": "hhanclub.net",
     "levelRequirements": [
         {
             "level": 1,
